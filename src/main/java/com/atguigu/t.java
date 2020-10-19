@@ -6,8 +6,6 @@ package com.atguigu;
  */
 public class t {
     public static void main(String[] args) {
-        String str = "1";
-        System.out.println("str"+str);
-        System.out.println("若曦baby123");
+        String love = "宝宝";
     }
 }
